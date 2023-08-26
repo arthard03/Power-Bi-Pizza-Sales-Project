@@ -8,6 +8,6 @@ Total Pizzas Sold by Pizza Category
  Bottom/Top 5 Pizzas by Revenue
  Bottom/Top 5 Pizzas by Quantity
  Bottom/Top 5 Pizzas by Total Orders
- 
+ Download pbix file  to see the data
 
 
